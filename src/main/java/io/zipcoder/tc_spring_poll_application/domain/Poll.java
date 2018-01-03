@@ -45,5 +45,5 @@ public class Poll {
     public void setOptions(Option options) {
         this.options = options;
     }
-    
+
 }
